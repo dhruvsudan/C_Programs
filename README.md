@@ -1,1 +1,11 @@
 # C_Programs
+![image](https://github.com/dhruvsudan/C_Programs/assets/133110297/a5c3c2cf-80f0-4b73-9589-c31ad14c0df0)
+![image](https://github.com/dhruvsudan/C_Programs/assets/133110297/68a77917-4e79-4229-93f2-1583889d4b97)
+![image](https://github.com/dhruvsudan/C_Programs/assets/133110297/88cc9e24-908d-4230-98f5-e92ed56d11c4)
+![image](https://github.com/dhruvsudan/C_Programs/assets/133110297/113fd579-15ee-4366-a329-174ba119193c)
+![image](https://github.com/dhruvsudan/C_Programs/assets/133110297/484e3a6a-da24-4d08-a2ec-a69fd03fc273)
+![image](https://github.com/dhruvsudan/C_Programs/assets/133110297/d6564b74-4a52-4f9f-b3be-8abd3b2cc6e4)
+![image](https://github.com/dhruvsudan/C_Programs/assets/133110297/86016fc6-ad50-4e2d-8ba2-2054a1114d4c)
+![image](https://github.com/dhruvsudan/C_Programs/assets/133110297/9c5fcdb3-f164-4563-ac53-00b4d8f2f2ed)
+![image](https://github.com/dhruvsudan/C_Programs/assets/133110297/e2c6e601-4351-44cb-9ed1-d72ad362e784)
+![image](https://github.com/dhruvsudan/C_Programs/assets/133110297/b1c38df4-a5a2-4d77-9811-486e989feba8)
