@@ -9,3 +9,4 @@
 ![image](https://github.com/dhruvsudan/C_Programs/assets/133110297/9c5fcdb3-f164-4563-ac53-00b4d8f2f2ed)
 ![image](https://github.com/dhruvsudan/C_Programs/assets/133110297/e2c6e601-4351-44cb-9ed1-d72ad362e784)
 ![image](https://github.com/dhruvsudan/C_Programs/assets/133110297/b1c38df4-a5a2-4d77-9811-486e989feba8)
+![Screenshot (52)](https://github.com/dhruvsudan/C_Programs/assets/133110297/972222b7-679f-4a26-a8ef-b139d67c4cd4)
